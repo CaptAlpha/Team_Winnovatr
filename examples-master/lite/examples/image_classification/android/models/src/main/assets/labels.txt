@@ -1,0 +1,2 @@
+0 Good PushUp
+1 Bad PushUp
